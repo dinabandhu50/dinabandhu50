@@ -17,7 +17,7 @@ I am a data scientist at AIRA MATRIX corp. and I am working on research projects
 
 ### Contact
 - Gmail : beheradinabandhu50@gmail.com
-- Phone : 7896492396
+- Phone : +91 78964 92396
 
 ### GIthub
 - 😄 Pronouns: ... Deen Bandhu
