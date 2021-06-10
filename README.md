@@ -26,4 +26,4 @@ I am a data scientist at AIRA MATRIX corp. and I am working on research projects
 - 👯 I’m looking to collaborate on ... pytorch geometric
 - 🤔 I’m looking for help with ... django web-dev
 - 💬 Ask me about ... Data Science
-- ⚡ Fun fact: ... I use arch btw  :stuck_out_tongue_closed_eyes:
+- ⚡ Fun fact: ... Btw, I use Arch  :stuck_out_tongue_closed_eyes:
