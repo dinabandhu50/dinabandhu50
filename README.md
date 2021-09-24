@@ -7,7 +7,7 @@ I am a data scientist at AIRA MATRIX corp. and I am working on research projects
 - :robot: Machine Learning Engineer at Virtusa (Aug 2018 - Aug 2020)
 
 ### Technologies
-- 🌟 ML libraries : Pytorch, scikit-learn, xgboost, catboost
+- 🌟 ML libraries : Pytorch, pytorch_geometric, scikit-learn, xgboost, catboost
 - 🌟 optimization : optuna, hyperopt
 - 🌟 web : Flask, Django
 
