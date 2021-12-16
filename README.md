@@ -9,7 +9,7 @@ I am a data scientist at AIRA MATRIX corp. and I am working on research projects
 ### Technologies
 - 🌟 ML libraries : Pytorch, pytorch_geometric, scikit-learn, xgboost, catboost
 - 🌟 optimization : optuna, hyperopt
-- 🌟 web : Flask, Django
+- 🌟 web : Flask, Django, Streamlit
 
 ### Education
 - :mortar_board: M.Tech in Biomedical Engineering from IIT Bombay 
@@ -17,7 +17,7 @@ I am a data scientist at AIRA MATRIX corp. and I am working on research projects
 
 ### Contact
 - Gmail : beheradinabandhu50@gmail.com
-- Phone : +91 78964 92396
+<!-- - Phone : +91 78964 92396 -->
 
 ### GIthub
 - 😄 Pronouns: ... Deen Bandhu
