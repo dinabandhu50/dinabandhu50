@@ -1,6 +1,6 @@
 ### Hi there my name is Dinabandhu Behera :raised_hands:
 
-Hello everyone I am Dinabandhu, data scientist and a curious engineer. I have worked on many Machine Learning based proof of concepts, Data Science research in healthcare domain previously, and currently I am working on end-to-end software development of machine learning based applications. I am looking forward to become an expert in Data Science and MLOps. 
+I am Dinabandhu, a data scientist with extensive experience in machine learning, artificial intelligence, and generative AI, actively contributing to innovative projects since August 2018. I specialize in solving complex problems, particularly in finance and healthcare, and am deeply passionate about the transformative potential of AI in advancing the healthcare industry. With a strong commitment to data science research, I am dedicated to furthering my expertise and making meaningful contributions to the field.
 
 
 ### Experiance
@@ -9,9 +9,8 @@ Hello everyone I am Dinabandhu, data scientist and a curious engineer. I have wo
 - :robot: Machine Learning Engineer at Virtusa (Aug 2018 - Aug 2020)
 
 ### Technologies
-- 🌟 ML libraries : Pytorch, Huggingface, pytorch_geometric, scikit-learn, xgboost, catboost
-- 🌟 optimization : optuna, hyperopt
-- 🌟 web : Django (mainly), fastAPI Streamlit
+- 🌟 ML libraries : transformers, openai, pytorch, pytorch_geometric, scikit-learn, xgboost, catboost
+- 🌟 Backend : git, fastAPI, sql, redis and Docker
 
 ### Education
 - :mortar_board: M.Tech in Biomedical Engineering from IIT Bombay 
@@ -23,9 +22,10 @@ Hello everyone I am Dinabandhu, data scientist and a curious engineer. I have wo
 
 ### GIthub
 - 😄 Pronouns: ... Deen Bandhu
-- 🔭 I’m currently working on ... learning ML with kaggle
-- 🌱 I’m currently learning ... MLOps
+- 🔭 I’m currently working on ... Gen AI's application in healthcare
+- 🌱 I’m currently learning ... Gen AI
 <!-- - 👯 I’m looking to collaborate on ... pytorch geometric -->
-- 🤔 I’m looking for help with ... django backend dev
-- 💬 Ask me about ... Data Science
-- ⚡ Fun fact: ... Btw, I use Arch  :stuck_out_tongue_closed_eyes:
+- 🤔 I’m looking for help with ... Staying up to date with latest AI advancements 
+- 💬 Ask me about ... AI/ML
+
+<!-- - ⚡ Fun fact: ... Btw, I use Arch  :stuck_out_tongue_closed_eyes: -->
