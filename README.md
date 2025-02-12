@@ -1,31 +1,43 @@
-### Hi there my name is Dinabandhu Behera :raised_hands:
+# 👋 Hi, I'm Dinabandhu!  
 
-I am Dinabandhu, a data scientist with extensive experience in machine learning, artificial intelligence, and generative AI, actively contributing to innovative projects since August 2018. I specialize in solving complex problems, particularly in finance and healthcare, and am deeply passionate about the transformative potential of AI in advancing the healthcare industry. With a strong commitment to data science research, I am dedicated to furthering my expertise and making meaningful contributions to the field.
+🚀 **Data Scientist | AI Researcher | Generative AI Enthusiast**  
 
+I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model Deployment**. With over **6 years of experience**, I've worked on cutting-edge AI applications, including **static code analysis improvement using LLM, drug toxicity classification using multimodal approach and Finetuning deep learning models (LLM, VLM and pretrained) for custom usecases**.  
 
-### Experiance
-- :robot: Full Stack Data Scientist at Zenon Analytics (Oct 2022 - present)
-- :robot: Data Scientist at AIRA MATRIX (Nov 2020 - Sept 2022)
-- :robot: Machine Learning Engineer at Virtusa (Aug 2018 - Aug 2020)
+💡 I’m passionate about **LLM fine-tuning, reinforcement learning, and AI-powered automation**. My work involves **building scalable AI applications, optimizing deep learning models, and deploying AI systems efficiently using FastAPI and Docker**.  
 
-### Technologies
-- 🌟 ML libraries : transformers, openai, pytorch, pytorch_geometric, scikit-learn, xgboost, catboost
-- 🌟 Backend : git, fastAPI, sql, redis and Docker
+---  
 
-### Education
-- :mortar_board: M.Tech in Biomedical Engineering from IIT Bombay 
-- :mortar_board: B.Tech in Electronics and Electrical Engineering from IIT Guwahati
+## 🔥 **What I’m Working On**  
+- **LLM Fine-Tuning & RAG** – Experimenting with LLM finetuning, LoRA, qLoRA, and multi-GPU training  
+- **Reinforcement Learning & AI Agents** – Learning RLHF, PPO, DPO, ORPO and GRPO with hands-on projects  
+- **Investment Portfolio Optimization** – Designing a long-term strategy for wealth creation  
 
-### Contact
-- Gmail : beheradinabandhu50@gmail.com
-<!-- - Phone : +91 78964 92396 -->
+---  
 
-### GIthub
-- 😄 Pronouns: ... Deen Bandhu
-- 🔭 I’m currently working on ... Gen AI's application in healthcare
-- 🌱 I’m currently learning ... Gen AI
-<!-- - 👯 I’m looking to collaborate on ... pytorch geometric -->
-- 🤔 I’m looking for help with ... Staying up to date with latest AI advancements 
-- 💬 Ask me about ... AI/ML
+## 🛠 **Tech Stack & Tools**  
+**Languages:** Python (ML/DL), SQL  
+**AI/ML Frameworks:** PyTorch, Huggingface transformers, openai, TRL Library, XGBoost  
+**Backend:** FastAPI, Celery, Docker, Redis  
+**Databases:** PostgreSQL, MongoDB  
+**Deployment:** Git, GitHub Actions, Ubuntu, systemd, Nginx  
 
-<!-- - ⚡ Fun fact: ... Btw, I use Arch  :stuck_out_tongue_closed_eyes: -->
+---  
+
+## 📈 **Current Learning Goals**  
+✅ Fine-tuning & training LLMs from scratch  
+✅ Reinforcement Learning (RLHF, PPO, DPO, ORPO, GRPO)  
+✅ Financial market analysis & portfolio management  
+✅ Advanced multi-GPU AI training workflows  
+
+---  
+
+## 📬 **Let’s Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/dinabandhu50)  
+💻 [GitHub](https://github.com/dinabandhu50)  
+📧 Email: beheradinabandhu50@gmail.com  
+
+---
+
+💡 *“AI is the new electricity.”* - Andrew Ng  
+🚀 *Let’s build something awesome together!*  
