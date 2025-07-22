@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Dinabandhu!  
 
-🚀 **Data Scientist | AI Researcher | Generative AI Enthusiast**  
+🚀 **Data Scientist | AI Researcher | Generative AI Developer**  
 
-I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model Deployment**. With over **6 years of experience**, I've worked on cutting-edge AI applications, including **static code analysis improvement using LLM, drug toxicity classification using multimodal approach and Finetuning deep learning models (LLM, VLM and pretrained) for custom usecases**.  
+I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model Deployment**. With over **6+ years of experience**, I've worked on cutting-edge AI applications, including **static code analysis improvement using LLM, drug toxicity classification using multimodal approach and Finetuning deep learning models (LLM, VLM and pretrained) for custom usecases**.  
 
 💡 I’m passionate about **LLM fine-tuning, reinforcement learning, and AI-powered automation**. My work involves **building scalable AI applications, optimizing deep learning models, and deploying AI systems efficiently using FastAPI and Docker**.  
 
@@ -10,7 +10,7 @@ I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model De
 
 ## 🔥 **What I’m Working On**  
 - **LLM Fine-Tuning & RAG** – Experimenting with LLM finetuning, LoRA, qLoRA, and multi-GPU training  
-- **Reinforcement Learning & AI Agents** – Learning RLHF, PPO, DPO, ORPO and GRPO with hands-on projects  
+- **Reinforcement Learning & AI Agents** – Implementing from scratch RLHF, PPO, DPO, ORPO, GRPO, OpenAI Agents and Google ADK   
 - **Investment Portfolio Optimization** – Designing a long-term strategy for wealth creation  
 
 ---  
@@ -25,10 +25,11 @@ I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model De
 ---  
 
 ## 📈 **Current Learning Goals**  
-✅ Fine-tuning & training LLMs from scratch  
+✅ Implementing and learning from research papers related to AI  
+✅ Fine-tuning & training LLMs from scratch in a scalable way  
 ✅ Reinforcement Learning (RLHF, PPO, DPO, ORPO, GRPO)  
-✅ Financial market analysis & portfolio management  
-✅ Advanced multi-GPU AI training workflows  
+✅ Multi AI Agents and their applications  
+✅ Google Cloud Platform and backend development  
 
 ---  
 
