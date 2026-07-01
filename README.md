@@ -36,7 +36,6 @@ I specialize in **Machine Learning, Generative AI, LLM Fine-Tuning, and Model De
 ## 📬 **Let’s Connect**  
 🔗 [LinkedIn](https://www.linkedin.com/in/dinabandhu50)  
 💻 [GitHub](https://github.com/dinabandhu50)  
-📧 Email: beheradinabandhu50@gmail.com  
 
 ---
 
